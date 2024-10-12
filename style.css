@@ -695,6 +695,9 @@ li{
 	.contact{
 		width: 100%;
 	}
+	.contact.maps{
+		width: 100%;
+	}
 	.contact .contact-content{
 		display: block;
 	}
