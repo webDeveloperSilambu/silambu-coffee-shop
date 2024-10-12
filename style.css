@@ -695,10 +695,11 @@ li{
 	.contact{
 		width: 100%;
 	}
-	.contact .contact-content .maps{
+	.contact .contact-content .maps iframe{
 	width: 100%;
          }
 	.contact .contact-content{
+		width:100%;
 		display: block;
 	}
 	footer .footer-links{
