@@ -98,7 +98,7 @@ p{
 
 .header .middle-head button::after{
 	content: '';
-	width: 10px;width: 10px;
+	width: 20px;width: 10px;
 	height: 0px;
 	position: absolute;
 	bottom: 0px;
